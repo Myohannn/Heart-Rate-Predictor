@@ -14,7 +14,7 @@ The program was coded in `Python 3.9` and you can find the require package in 'r
 
 ### Preprocess training data:
 1. Edit ‘config.ini’: Modify the [Data_Merge] section according to the time schedule and the heart rate level bound
-2. Run “main.py’
+2. Run 'main.py’
 3. Type 1 in the console
 4. Select the ECG and PPG file in the pop up window
 5. The merged file will be saved in ‘separate_data’ and the separated files will 		be saved in 'dataset/trainingdata/data4regression’
@@ -23,7 +23,7 @@ The program was coded in `Python 3.9` and you can find the require package in 'r
 
 ### Build model:
 1. Edit ‘config.ini’: Modify the parameters in [Model_Trainer] section.
-2. Run “main.py’
+2. Run 'main.py’
 3. Type 2 in the console
 4. Select model type in the console
 5. Select training dataset in the pop up window
@@ -33,7 +33,7 @@ The program was coded in `Python 3.9` and you can find the require package in 'r
 
 ### Predict heart rate:
 1. Edit ‘config.ini’: Modify the parameters in [HR_Predictor] section.
-2. Run “main.py’
+2. Run 'main.py’
 3. Type 3 in the console
 4. Select dataset to be predicted
 5. Select models
