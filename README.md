@@ -6,7 +6,7 @@ This is the source code of our heart rate predictor.
   
 The program was coded in Python 3.9 and you can find the require package in 'requirements.txt'.
 
-### There are three functions:
+## There are three functions:
 - Preprocess training data
 - Build model (classifier&predictor)
 - Predict heart rate
