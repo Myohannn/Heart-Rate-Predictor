@@ -1,0 +1,9 @@
+openpyxl==3.0.7
+pywin32==301
+numpy==1.19.5
+keras_nightly==2.5.0.dev2021032900
+tensorflow==2.5.0
+xlwt==1.3.0
+pandas==1.2.4
+keras==2.6.0
+scikit_learn==0.24.2
